@@ -5,7 +5,7 @@ Designed as a portfolio project, it highlights industry best practices in data e
 
 ---
 
-###🚀 Project Requirements
+## 🚀 Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
 
